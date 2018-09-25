@@ -1,4 +1,4 @@
 # cs385lab2
 
-command to run containers <br />
+command to build and run containers <br />
 sh run
